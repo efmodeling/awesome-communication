@@ -15,6 +15,9 @@ A curated list of science communication resources — papers, guides, and books 
 - **[Grant Writing and Written Communication — Northwestern CLIMB](https://www.northwestern.edu/climb/resources/written-communication/)**  
   Science-based resources on written communication including grant proposals (NIH/NSF), abstracts, figures, and tables. Includes workshop slides and video files.
 
+- **[Hybrid Pointing Rehearsal Record](https://light-tracer.com/wp-content/uploads/2026/10/hybrid-pointing-rehearsal-record-open-v1.pdf)**  
+  A free two-page CC BY 4.0 worksheet for checking indicated slide details across room, shared-screen and recorded views before a hybrid presentation. Published by Light Tracer; AI-assisted.
+
 ---
 
 ## Books
